@@ -19,7 +19,10 @@
 
 3. [**A Unified Approach to Interpreting Model Predictions**](https://arxiv.org/abs/1705.07874) || [*PDF*](https://arxiv.org/pdf/1705.07874.pdf)
 - SHAP (SHapley Additive exPlanations)
-- testet Einfluss jedes features auf Ergebnis durch Bewertung aller möglichen Untergruppen
+- testet Einfluss jedes Features auf das Ergebnis durch Bewertung aller möglichen Untergruppen
+
+4. [**Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**](https://arxiv.org/abs/1610.02391) || [*PDF*](https://arxiv.org/pdf/1610.02391.pdf)
+- Grad-Cam (Gradient-weighted Class Activation Map)
 
 #### Saliency Maps
 
