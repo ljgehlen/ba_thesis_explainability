@@ -25,6 +25,9 @@
 
 5. [**Explaining NonLinear Classification Decisions with Deep Taylor Decomposition**](https://arxiv.org/abs/1512.02479) || [*PDF*](https://arxiv.org/pdf/1512.02479.pdf)
 
+6. [**Learning Important Features Through Propagating Activation Differences**](https://arxiv.org/abs/1704.02685) || [*PDF*](https://arxiv.org/pdf/1704.02685)
+- DeepLIFT (Deep Learning Important FeaTures),
+
 #### Saliency Maps
 
 1. [**Visualizing and Understanding Convolutional Networks**](https://arxiv.org/abs/1311.2901) || [*PDF*](https://arxiv.org/pdf/1311.2901.pdf)
@@ -51,3 +54,4 @@
 
 2. [**Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps**](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_17)
 
+3. [**Utilizing Explainable AI for Quantization and Pruning of Deep Neural Networks**](https://arxiv.org/abs/2008.09072)
