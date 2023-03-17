@@ -51,6 +51,9 @@
 1. [**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks**](https://arxiv.org/abs/1803.03635) || [*PDF*](https://arxiv.org/pdf/1803.03635.pdf)
 - Übersicht LTH (Lottery Ticket Hypothesis), winning tickets und IMP (iterative magnitude pruning)
 
+2. [**Stabilizing the Lottery Ticket Hypothesis**](https://arxiv.org/abs/1903.01611) || [*PDF*](https://arxiv.org/pdf/1903.01611.pdf)
+- Weiterentwicklung von IMP durch Neu trainieren jeder Iteration nicht von Punkt 0, sondern Gewichten eines frühen Pruningzeitpunkt (0.1% - 7%)
+
 ## Mischung
 
 1. [**Less is More: The Influence of Pruning on the Explainability of CNNs**](https://arxiv.org/pdf/2302.08878.pdf)
