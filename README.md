@@ -6,23 +6,27 @@
 - Übersicht von Explainability und einfache Erklärung vieler Saliency Maps Methoden
 
 2. [**Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI**](https://arxiv.org/abs/1910.10045)
--Zusammenfassung der Begrifflichkeit und Konzepte in XAI
+- Zusammenfassung der Begrifflichkeit und Konzepte in XAI
 
 3. [**Techniques for Interpretable Machine Learning**](https://arxiv.org/abs/1808.00033)
 
+
 4. [**A Survey on the Explainability of Supervised Machine Learning**](https://arxiv.org/abs/2011.07876)
+
+
 
 ### Saliency Methods
 
 1.[**The (Un)reliability of saliency methods**](https://arxiv.org/abs/1711.00867)
 
+
 2. [**"Why Should I Trust You?": Explaining the Predictions of Any Classifier**](https://arxiv.org/abs/1602.04938)
--LIME (Local Interpretable Model-Agnostic Explanations)
--"local surrogate", ersetzt Lokale Umgebung durch simplere Modelle mit zusätzlich generierten Datenpunkten
+- LIME (Local Interpretable Model-Agnostic Explanations)
+- "local surrogate", ersetzt Lokale Umgebung durch simplere Modelle mit zusätzlich generierten Datenpunkten
 
 3. [**A Unified Approach to Interpreting Model Predictions**](https://arxiv.org/abs/1705.07874)
--SHAP (SHapley Additive exPlanations)
--testet Einfluss jedes features auf Ergebnis durch Bewertung aller möglichen Untergruppen
+- SHAP (SHapley Additive exPlanations)
+- testet Einfluss jedes features auf Ergebnis durch Bewertung aller möglichen Untergruppen
 
 #### Saliency Maps
 
