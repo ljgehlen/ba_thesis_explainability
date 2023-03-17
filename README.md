@@ -17,9 +17,8 @@
 
 ### Saliency Methods
 
-1.[**The (Un)reliability of saliency methods**](https://arxiv.org/abs/1711.00867)
+1. [**The (Un)reliability of saliency methods**](https://arxiv.org/abs/1711.00867)
 - 
-
 
 2. [**"Why Should I Trust You?": Explaining the Predictions of Any Classifier**](https://arxiv.org/abs/1602.04938)
 - LIME (Local Interpretable Model-Agnostic Explanations)
