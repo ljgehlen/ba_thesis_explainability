@@ -42,7 +42,7 @@
 ### Lottery Ticket Hypothese
 
 1. [**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks**](https://arxiv.org/abs/1803.03635) || [*PDF*](https://arxiv.org/pdf/1803.03635.pdf)
--
+- Übersicht LTH (Lottery Ticket Hypothesis), winning tickets und IMP (iterative magnitude pruning)
 
 ## Mischung
 
