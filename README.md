@@ -11,7 +11,6 @@
 ### Feature Attribution / Saliency Methods
 
 1. [**The (Un)reliability of saliency methods**](https://arxiv.org/abs/1711.00867) || [*PDF*](https://arxiv.org/pdf/1711.00867.pdf)
-- 
 
 2. [**"Why Should I Trust You?": Explaining the Predictions of Any Classifier**](https://arxiv.org/abs/1602.04938) || [*PDF*](https://arxiv.org/pdf/1602.04938.pdf)
 - LIME (Local Interpretable Model-Agnostic Explanations)
@@ -36,12 +35,10 @@
 - Methode 2: Vergleich der Saliency Maps auf normal trainierten Neuronalen Netzwerk und einem trainierten Netzwerk mit zufällig permutierten Labeln
 
 3. [**Sanity Checks for Saliency Metrics**](https://arxiv.org/abs/1912.01451) || [*PDF*](https://arxiv.org/pdf/1912.01451.pdf)
-- 
 
 ## Pruning
 
 1. [**Rethinking the Value of Network Pruning**](https://arxiv.org/abs/1810.05270) || [*PDF*](https://arxiv.org/pdf/1810.05270.pdf)
--
 
 ### Lottery Ticket Hypothese
 
@@ -51,5 +48,6 @@
 ## Mischung
 
 1. [**Less is More: The Influence of Pruning on the Explainability of CNNs**](https://arxiv.org/pdf/2302.08878.pdf)
--
+
+2. [**Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps**](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_17)
 
