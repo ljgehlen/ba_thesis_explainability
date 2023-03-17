@@ -24,6 +24,8 @@
 4. [**Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**](https://arxiv.org/abs/1610.02391) || [*PDF*](https://arxiv.org/pdf/1610.02391.pdf)
 - Grad-Cam (Gradient-weighted Class Activation Map)
 
+5. [**Explaining NonLinear Classification Decisions with Deep Taylor Decomposition**](https://arxiv.org/abs/1512.02479) || [*PDF*](https://arxiv.org/pdf/1512.02479.pdf)
+
 #### Saliency Maps
 
 1. [**Sanity Checks for Saliency Maps**](https://arxiv.org/abs/1810.03292) || [*PDF*](https://arxiv.org/pdf/1810.03292.pdf)
