@@ -29,7 +29,6 @@
 #### Saliency Maps
 
 1. [**Visualizing and Understanding Convolutional Networks**](https://arxiv.org/abs/1311.2901) || [*PDF*](https://arxiv.org/pdf/1311.2901.pdf)
-- Ursprüngliche Einführung von saliency maps zur Visualisierung
 
 2. [**Sanity Checks for Saliency Maps**](https://arxiv.org/abs/1810.03292) || [*PDF*](https://arxiv.org/pdf/1810.03292.pdf)
 - Vergleicht Saliency Maps Methoden
