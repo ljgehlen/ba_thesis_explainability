@@ -53,6 +53,7 @@
 1. [**Less is More: The Influence of Pruning on the Explainability of CNNs**](https://arxiv.org/pdf/2302.08878.pdf)
 
 2. [**Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps**](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_17)
+- "Our intuition is that the interpretations (saliency maps) of the original and pruned classifiers should be similar."
 
 3. [**Utilizing Explainable AI for Quantization and Pruning of Deep Neural Networks**](https://arxiv.org/abs/2008.09072)
 
