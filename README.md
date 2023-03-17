@@ -28,12 +28,15 @@
 
 #### Saliency Maps
 
-1. [**Sanity Checks for Saliency Maps**](https://arxiv.org/abs/1810.03292) || [*PDF*](https://arxiv.org/pdf/1810.03292.pdf)
+1. [**Visualizing and Understanding Convolutional Networks**](https://arxiv.org/abs/1311.2901) || [*PDF*](https://arxiv.org/pdf/1311.2901.pdf)
+- Ursprüngliche Einführung von saliency maps zur Visualisierung
+
+2. [**Sanity Checks for Saliency Maps**](https://arxiv.org/abs/1810.03292) || [*PDF*](https://arxiv.org/pdf/1810.03292.pdf)
 - Vergleicht Saliency Maps Methoden
 - Methode 1: Vergleich der Saliency Maps auf trainierten Neuronalen Netzwerk gegenüber untrainierten Neuronalen Netzwerk der selben Architektur
 - Methode 2: Vergleich der Saliency Maps auf normal trainierten Neuronalen Netzwerk und einem trainierten Netzwerk mit zufällig permutierten Labeln
 
-2. [**Sanity Checks for Saliency Metrics**](https://arxiv.org/abs/1912.01451) || [*PDF*](https://arxiv.org/pdf/1912.01451.pdf)
+3. [**Sanity Checks for Saliency Metrics**](https://arxiv.org/abs/1912.01451) || [*PDF*](https://arxiv.org/pdf/1912.01451.pdf)
 - 
 
 ## Pruning
