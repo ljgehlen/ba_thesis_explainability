@@ -20,12 +20,15 @@
 - SHAP (SHapley Additive exPlanations)
 - testet Einfluss jedes Features auf das Ergebnis durch Bewertung aller möglichen Untergruppen
 
-4. [**Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**](https://arxiv.org/abs/1610.02391) || [*PDF*](https://arxiv.org/pdf/1610.02391.pdf)
+4. [**Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps**](https://arxiv.org/abs/1312.6034) || [*PDF*](https://arxiv.org/pdf/1312.6034.pdf)
+- Vanilla Gradient
+
+5. [**Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**](https://arxiv.org/abs/1610.02391) || [*PDF*](https://arxiv.org/pdf/1610.02391.pdf)
 - Grad-Cam (Gradient-weighted Class Activation Map)
 
-5. [**Explaining NonLinear Classification Decisions with Deep Taylor Decomposition**](https://arxiv.org/abs/1512.02479) || [*PDF*](https://arxiv.org/pdf/1512.02479.pdf)
+6. [**Explaining NonLinear Classification Decisions with Deep Taylor Decomposition**](https://arxiv.org/abs/1512.02479) || [*PDF*](https://arxiv.org/pdf/1512.02479.pdf)
 
-6. [**Learning Important Features Through Propagating Activation Differences**](https://arxiv.org/abs/1704.02685) || [*PDF*](https://arxiv.org/pdf/1704.02685)
+7. [**Learning Important Features Through Propagating Activation Differences**](https://arxiv.org/abs/1704.02685) || [*PDF*](https://arxiv.org/pdf/1704.02685)
 - DeepLIFT (Deep Learning Important FeaTures),
 
 #### Saliency Maps
