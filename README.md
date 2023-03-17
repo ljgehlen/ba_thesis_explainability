@@ -55,3 +55,7 @@
 2. [**Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps**](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_17)
 
 3. [**Utilizing Explainable AI for Quantization and Pruning of Deep Neural Networks**](https://arxiv.org/abs/2008.09072)
+
+4. [**Pruning by Explaining: A Novel Criterion for Deep Neural Network Pruning**](https://arxiv.org/abs/1912.08881)
+
+5. [**Deep neural network compression through interpretability-based filter pruning**](http://www.jiyeliang.net/Cms_Data/Contents/SXU_JYL/Folders/JournalPapers/~contents/AHX23NK7H3LJQEK6/PR2021-Deep%20neural%20network%20compression%20through%20interpretability-based%20filter%20pruning.pdf)
