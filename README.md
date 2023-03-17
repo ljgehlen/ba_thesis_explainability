@@ -5,7 +5,7 @@
 1. [**Interpretable Machine Learning - A Guide for making Black Box Models Explainable**](https://christophm.github.io/interpretable-ml-book/)
 - Übersicht von Explainability und einfache Erklärung vieler Saliency Maps Methoden
 
-2. [**Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI**](https://arxiv.org/abs/1910.10045)
+2. [**Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI**](https://arxiv.org/abs/1910.10045) [PDF](https://arxiv.org/pdf/1910.10045.pdf)
 - Zusammenfassung der Begrifflichkeit und Konzepte in XAI
 
 3. [**Techniques for Interpretable Machine Learning**](https://arxiv.org/abs/1808.00033)
